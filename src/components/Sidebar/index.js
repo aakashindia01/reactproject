@@ -23,4 +23,4 @@ const Sidebar = ({isOpen,toggle}) => {
     );
 }
 
-export default Sidebar
+export default Sidebar;

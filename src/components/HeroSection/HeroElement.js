@@ -5,9 +5,9 @@ export const HeroContainer = styled.div`
     display:flex;
     justify-container:center;
     justify-content:center;
-    align-item:center;
+    align-items:center;
     padding:0 30px;
-    height:800px;
+    height:700px;
     position:relative;
     z-index:1;
 
@@ -46,7 +46,6 @@ export const HeroBlog = styled.div`
 
 export const HeroContent = styled.div`
     z-index:3;
-    margin-top:6em;
     max-width:1200px;
     position:absolute;
     padding:8px 24px;    
